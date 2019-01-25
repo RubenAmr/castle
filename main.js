@@ -1,16 +1,16 @@
 const request = require("request");
 const fetch = require('node-fetch');
 const cheerio = require('cheerio');
-const url ='https://www.relaischateaux.com/us/destinations/europe';
+const castle = require("./castle.js").Castle;
+const url ='https://www.relaischateaux.com/us/destinations/france';
 
-function searchRestau(searchTerm)
-{
-  return fetch(`${url}${searchTerm}`)
-  .then(response => response.text())
-
-}
-
-searchRestau('/france')
-  .then(body => {
+/* 
+    castle.searchRestau('/france').then(body => {
       console.log(body);
     });
+*/
+    castle.getListHotels().then(response => {
+      const hotels = response;
+      console.log(hotels);
+    });
+    
