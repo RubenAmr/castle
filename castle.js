@@ -34,4 +34,3 @@ Castle.prototype.getListHotels = function() {
   exports.Castle = new Castle();
   
  
-
