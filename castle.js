@@ -1,36 +1,48 @@
-const axios = require("axios");
-const request = require("request");
-const fetch = require('node-fetch');
-const cheerio = require('cheerio');
-const url = "https://www.relaischateaux.com/us/destinations/france";
-//const url2 = "https://www.relaischateaux.com/us/destinations/europe";
+const puppeteer = require('puppeteer');
 
-var Castle = function() {};
-
-/*Castle.prototype.searchRestau(searchTerm)= function(){
+let chateauURL = 'https://www.relaischateaux.com/fr/destinations/europe/france';
+(async function main(){
 try{
-return fetch(`${url2}${searchTerm}`).then(response => response.text())
-}catch(error){
-    console.log(error);
+const browser=await puppeteer.launch({headless:false});
+const page =await browser.newPage();
+
+await page.goto('https://experts.shopify.com/');
+await page.waitForSelector('.section');
+
+const sections = await page.$$('.section');
+
+for(let i=0;i<5;i++)
+{
+await page.goto('https://experts.shopify.com/');
+await page.waitForSelector('.section');
+
+const sections = await page.$$('.section');
+
+
+const section=sections[i];
+const button=await section.$('a.marketing-button')
+const buttonName= await page.evaluate(button=>button.innerText,button);
+button.click();
+
+await page.waitForSelector('#ExpertsResults')
+
+const lis=await page.$$('#ExpertsResults > li')
+for(const li of lis)
+{
+
+const name=await li.$eval('h2',(h2)=>h2.innerText);
+console.log('name',name)
 }
-};*/
+}
+}
+
+catch(e){
+console.log('our error',e);
+
+}
 
 
-//Retrieving the list of all French hotels
-Castle.prototype.getListHotels = function() {
-    try {
-      return axios.get(url).then(response => {
-        const dataset = response.data;
-        var beforeJson = dataset.match(/var oMapOptionsdestinationfranceMap = (.*?)<\/script>/ms)[1];
-        var map = eval("(" + beforeJson + ")");
-        var markers = map.markers;
-        var stringJson = JSON.stringify(markers);//Convert a Javascript value to a json string
-        return JSON.parse(stringJson);
-      });
-    } catch (error) {
-      console.log(error);
-    }
-  };
-  exports.Castle = new Castle();
-  
- 
+
+
+
+})();
