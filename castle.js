@@ -67,5 +67,5 @@ var fichierJson = [];
 
     }
     //In case of error, we print an error message
-    catch (e) { console.log("PAS okokok"); }
+    catch (e) { console.log("error"); }
 })();
