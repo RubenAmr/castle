@@ -75,7 +75,7 @@ function fillInfos(url, index) {
                 let data = $(this);
                 let name = data.text();
                 name = name.replace(/\n/g, "");
-                listOfrestaurants[index].name = name;
+                listOfrestaurants[index].name = name.trim();
             })
 
             $('.postal-code').first().each(function () {
@@ -119,3 +119,7 @@ Promise.all(listOfPromises)
     .then(() => { return Promise.all(individualListOfPromises); })
     .then(saveInfoJson)
     .then(() => { console.log("Successfuly saved !!") });
+
+    module.exports.getRestaurantsJSON = function () {
+    return JSON.parse(fs.readFileSync("starredRestaurants.json"));
+}
