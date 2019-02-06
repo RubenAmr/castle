@@ -1,0 +1,186 @@
+[
+    {
+        "hotel Name ": "Anne de Bretagne",
+        "hotel Price": "130.00",
+        "Chef Name": "Mathieu Guibert",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/annedebretagne-loire-atlantique-la-plaine-sur-mer"
+        ]
+    },
+    {
+        "hotel Name ": "Assiette Champenoise",
+        "hotel Price": "185.50",
+        "Chef Name": "Arnaud Lallement",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/assiette-champenoise-champagne-ardenne-tinqueux"
+        ]
+    },
+    {
+        "hotel Name ": "Auberge des Templiers",
+        "hotel Price": "109.00",
+        "Chef Name": "Martin Simonart",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/templiers-loiret-boismorand"
+        ]
+    },
+    {
+        "hotel Name ": "Château Cordeillan-Bages",
+        "hotel Price": "170.00",
+        "Chef Name": "Julien Lefebvre",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/cordeillan-gironde-pauillac"
+        ]
+    },
+    {
+        "hotel Name ": "Château de la Treyne",
+        "hotel Price": "250.00",
+        "Chef Name": "Stéphane Andrieux",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/treyne-lot-lacave"
+        ]
+    },
+    {
+        "hotel Name ": "Domaine de Rochevilaine",
+        "hotel Price": "213.00",
+        "Chef Name": "Maxime Nouail",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/rochevilaine-morbihan-billiers"
+        ]
+    },
+    {
+        "hotel Name ": "Flocons de Sel",
+        "hotel Price": "430.00",
+        "Chef Name": "Emmanuel Renaut",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve"
+        ]
+    },
+    {
+        "hotel Name ": "Hostellerie de Levernois",
+        "hotel Price": "150.00",
+        "Chef Name": "",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/levernois-cote-d-or-levernois-beaune"
+        ]
+    },
+    {
+        "hotel Name ": "Hostellerie de Plaisance",
+        "hotel Price": "280.00",
+        "Chef Name": "Ronan Kervarrec",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/plaisance-gironde-saint-emilion"
+        ]
+    },
+    {
+        "hotel Name ": "Domaine de Rochevilaine",
+        "hotel Price": "213.00",
+        "Chef Name": "Maxime Nouail",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/rochevilaine-morbihan-billiers"
+        ]
+    },
+    {
+        "hotel Name ": "Flocons de Sel",
+        "hotel Price": "430.00",
+        "Chef Name": "Emmanuel Renaut",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve"
+        ]
+    },
+    {
+        "hotel Name ": "Hostellerie de Levernois",
+        "hotel Price": "150.00",
+        "Chef Name": "",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/levernois-cote-d-or-levernois-beaune"
+        ]
+    },
+    {
+        "hotel Name ": "Hostellerie de Plaisance",
+        "hotel Price": "280.00",
+        "Chef Name": "Ronan Kervarrec",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/plaisance-gironde-saint-emilion"
+        ]
+    },
+    {
+        "hotel Name ": "L'Auberge Basque",
+        "hotel Price": "101.15",
+        "Chef Name": "Cédric Béchade",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/auberge-basque-saint-pee-sur-nivelle-pyrenees-atlantiques"
+        ]
+    },
+    {
+        "hotel Name ": "La Bastide de Capelongue",
+        "hotel Price": "113.00",
+        "Chef Name": "Édouard Loubet",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/capelongue-vaucluse-bonnieux-en-provence"
+        ]
+    },
+    {
+        "hotel Name ": "La Bonne Étape",
+        "hotel Price": "158.00",
+        "Chef Name": "Jany Gleize",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/bonneetape-alpes-de-haute-provence-chateau-arnoux"
+        ]
+    },
+    {
+        "hotel Name ": "Le Vieux Logis",
+        "hotel Price": "170.00",
+        "Chef Name": "Vincent Arnould",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/vieuxlogis-dordogne-tremolat"
+        ]
+    },
+    {
+        "hotel Name ": "Les Hautes Roches",
+        "hotel Price": "165.00",
+        "Chef Name": "Didier Edon",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/hautesroches-indre-et-loire-rochecorbon"
+        ]
+    },
+    {
+        "hotel Name ": "Maison Decoret",
+        "hotel Price": "117.81",
+        "Chef Name": "Jacques Decoret",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/decoret-allier-vichy"
+        ]
+    },
+    {
+        "hotel Name ": "Maison Lameloise",
+        "hotel Price": "180.00",
+        "Chef Name": "Eric Pras",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/lameloise-saone-et-loire-chagny"
+        ]
+    },
+    {
+        "hotel Name ": "Michel Trama",
+        "hotel Price": "220.00",
+        "Chef Name": "Michel Trama",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/aubergade-lot-et-garonne-puymirol"
+        ]
+    },
+    {
+        "hotel Name ": "Relais de la Poste",
+        "hotel Price": "162.00",
+        "Chef Name": "Jean Coussau",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/poste-landes-magescq"
+        ]
+    },
+    {
+        "hotel Name ": "Villa René Lalique",
+        "hotel Price": -1,
+        "Chef Name": "Jean-Georges Klein et  Paul Stradner",
+        "Link for Reservation": [
+            "https://www.relaischateaux.com/us/france/lalique-bas-rhin"
+        ]
+    }
+]
