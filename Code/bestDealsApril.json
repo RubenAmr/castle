@@ -1,0 +1,156 @@
+[
+    {
+        "hotel Name ": "Anne de Bretagne",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/annedebretagne-loire-atlantique-la-plaine-sur-mer",
+        "Price": {
+            "6": "US$178",
+            "13": "US$258",
+            "20": "US$203",
+            "27": "US$203"
+        }
+    },
+    {
+        "hotel Name ": "Assiette Champenoise",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/assiette-champenoise-champagne-ardenne-tinqueux",
+        "Price": {
+            "6": "US$301",
+            "13": "US$544",
+            "20": "US$544",
+            "27": "US$420"
+        }
+    },
+    {
+        "hotel Name ": "Auberge des Templiers",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/templiers-loiret-boismorand",
+        "Price": {
+            "6": "US$233",
+            "13": "US$233",
+            "20": "US$233",
+            "27": "US$233"
+        }
+    },
+    {
+        "hotel Name ": "Château Cordeillan-Bages",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/cordeillan-gironde-pauillac",
+        "Price": {
+            "6": "US$193",
+            "13": "US$193",
+            "20": "US$193",
+            "27": "undefined"
+        }
+    },
+    {
+        "hotel Name ": "Château de la Treyne",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/treyne-lot-lacave",
+        "Price": {
+            "6": "US$340",
+            "13": "US$397",
+            "20": "US$397",
+            "27": "US$340"
+        }
+    },
+    {
+        "hotel Name ": "Domaine de Rochevilaine",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/rochevilaine-morbihan-billiers",
+        "Price": {
+            "6": "US$310",
+            "13": "US$310",
+            "20": "US$293",
+            "27": "US$508"
+        }
+    },
+    {
+        "hotel Name ": "Flocons de Sel",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve",
+        "Price": {
+            "6": "US$522",
+            "13": "US$522",
+            "20": "undefined",
+            "27": "undefined"
+        }
+    },
+    {
+        "hotel Name ": "Hostellerie de Levernois",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/levernois-cote-d-or-levernois-beaune",
+        "Price": {
+            "6": "US$295",
+            "13": "US$295",
+            "20": "US$295",
+            "27": "US$295"
+        }
+    },
+    {
+        "hotel Name ": "Hostellerie de Plaisance",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/plaisance-gironde-saint-emilion",
+        "Price": {
+            "6": "US$448",
+            "13": "US$448",
+            "20": "US$624",
+            "27": "US$539"
+        }
+    },
+    {
+        "hotel Name ": "Le Vieux Logis",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/vieuxlogis-dordogne-tremolat",
+        "Price": {
+            "6": "US$255",
+            "13": "US$216",
+            "20": "US$244",
+            "27": "US$244"
+        }
+    },
+    {
+        "hotel Name ": "Les Hautes Roches",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/hautesroches-indre-et-loire-rochecorbon",
+        "Price": {
+            "6": "US$174",
+            "13": "US$193",
+            "20": "US$174",
+            "27": "US$210"
+        }
+    },
+    {
+        "hotel Name ": "Maison Decoret",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/decoret-allier-vichy",
+        "Price": {
+            "6": "US$225",
+            "13": "US$397",
+            "20": "undefined",
+            "27": "US$289"
+        }
+    },
+    {
+        "hotel Name ": "Maison Lameloise",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/lameloise-saone-et-loire-chagny",
+        "Price": {
+            "6": "US$250",
+            "13": "US$454",
+            "20": "US$250",
+            "27": "US$250"
+        }
+    },
+    {
+        "hotel Name ": "Michel Trama",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/aubergade-lot-et-garonne-puymirol",
+        "Price": {
+            "6": "US$250",
+            "13": "US$250",
+            "20": "US$250",
+            "27": "US$250"
+        }
+    },
+    {
+        "hotel Name ": "Relais de la Poste",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/poste-landes-magescq",
+        "Price": {
+            "6": "US$255",
+            "13": "US$335",
+            "20": "US$391",
+            "27": "US$335"
+        }
+    },
+    {
+        "hotel Name ": "Villa René Lalique",
+        "Link for Reservation": "https://www.relaischateaux.com/us/france/lalique-bas-rhin"
+    }
+]
